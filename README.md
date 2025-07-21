@@ -15,17 +15,6 @@ This repository provides a comprehensive, side-by-side comparison of keywords ac
 - 🔍 **Quick Reference**: Finding equivalent keywords instantly
 - 👥 **Team Collaboration**: Working with polyglot codebases
 
-## 📋 Table of Contents
-
-- [Supported Languages](#supported-languages)
-- [Quick Examples](#quick-examples)
-- [Complete Keywords Table](#complete-keywords-table)
-- [Key Insights](#key-insights)
-- [Usage Examples](#usage-examples)
-- [Statistics](#statistics)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌐 Supported Languages
 
 | Language | Keywords Count | Focus Area |
